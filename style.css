@@ -658,7 +658,7 @@ textarea:focus {
 .slider-active .owl-nav div, 
 .product-active .owl-nav div, 
 .special-product-active .owl-nav div {
-	color: rgba(36,36,36,.15);
+	color: #0363cd;
 	display: block;
 	left: 0;
 	opacity: 0;
@@ -694,6 +694,7 @@ textarea:focus {
 .product-active .owl-nav > .owl-next > i {
 	font-size: 55px;
 	font-weight: 700;
+	color: #0363cd;
 }
 /*Product Active Nav Direction*/
 .product-active .owl-nav div.owl-prev {
@@ -4940,6 +4941,7 @@ span.required {
 }
 .single-banner img {
   width: 100%;
+  border-radius: 8px;
 }
 .product-short .nice-select {
 	border-radius: 0;
