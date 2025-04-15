@@ -2660,6 +2660,7 @@ textarea:focus {
 	background-size: cover;
 	height: 400px;
 	background-repeat: no-repeat;
+	border-radius: 20px;
 }
 .li-static-home-content {
 	padding-left: 75px;
