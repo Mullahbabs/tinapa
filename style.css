@@ -2549,6 +2549,7 @@ textarea:focus {
 .li-banner {
 	position: relative;
 	overflow: hidden;
+	border-radius: 8px;
 }
 .li-banner > a, .single-banner > a, .featured-banner a {
 	width: 100%;
@@ -2590,6 +2591,7 @@ textarea:focus {
 }
 .li-banner > a > img, .single-banner > a > img {
 	width: 100%;
+
 }
 /*----------------------------------------*/
 /*  2.6 Li's Laptop Features
